@@ -1,5 +1,5 @@
 ﻿# NetflixCloneUI 🍿🎬
-A simple clone of Netflix's home page mobile application UI made using Android Studio and XML.
+A simple clone of Netflix's home page mobile application (Android) UI made using Android Studio and XML.
 
 ## Preview
 <img src="https://user-images.githubusercontent.com/56993480/156031191-eb8970e8-c61f-49fe-bc89-7d8723684bee.jpg" width="500" />
