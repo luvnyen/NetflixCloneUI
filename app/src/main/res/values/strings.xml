@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Netflix</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Coming Soon</string>
+    <string name="title_notifications">Downloads</string>
+    <string name="genres">Action • Drama • Fiction • History</string>
+</resources>
